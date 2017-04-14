@@ -1,9 +1,9 @@
 # Expert-System-for-resource-Allocation
 
-Madhu Chegondi
-EECS 638
-Expert System for Resource Allocation
-KUID m136c192
+Madhu Chegondi<br/>
+EECS 638<br/>
+Expert System for Resource Allocation<br/>
+KUID m136c192<br/>
 
 RUNNING THE PROGRAM:
   - Open Clips executable file
